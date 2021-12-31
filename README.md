@@ -1,4 +1,4 @@
-Read the data, Pull the data, Push the data, Update the data ----> via PYTHON                                                    
+Read the data, Pull the data, Update the data, Push the data ----> via PYTHON                                                    
 
 DATA files includes :                                                                                        
 
