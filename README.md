@@ -1,9 +1,9 @@
 reading DATA from:                                                                 
 
-Unstructured database management (MongoDB)                                                       
-Structured database management (XAMPP - MySQL)                                                                                   
-Excel files                                                                                               
-Json files                                                                                                        
-Image files                                                                                                              
-Audio files                                                                                                               
-Video files                                                                                                      
+1.Unstructured database management (MongoDB)                                                       
+2.Structured database management (XAMPP - MySQL)                                                                                   
+3.Excel files                                                                                               
+4.Json files                                                                                                        
+5.Image files                                                                                                              
+6.Audio files                                                                                                               
+7.Video files                                                                                                      
