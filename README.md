@@ -3,7 +3,7 @@ Read the data, Pull the data, Update the data, Push the data ----> via PYTHON
 DATA files includes :                                                                                        
 
 1-Unstructured data (using MongoDB)                                                       
-2-Structured data (usong XAMPP - MySQL)                                                                                   
+2-Structured data (using XAMPP - MySQL)                                                                                   
 3-Excel files                                                                                               
 4-Json files                                                                                                        
 5-Image files                                                                                                              
