@@ -10,7 +10,7 @@ Read the data, Pull the data, Update the data, Push the data ----> via PYTHON
 * Video files                                                                                                      
 
 
-## to_access_Structured Data:
+## 1.to_access_Structured Data:
 
 * import mysql.connector
 * CREATING DATABASE
