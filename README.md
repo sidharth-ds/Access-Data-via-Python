@@ -5,9 +5,6 @@ Read the data, Pull the data, Update the data, Push the data ----> via PYTHON
 * Structured data (using XAMPP - MySQL)                                                                                   
 * Excel files                                                                                               
 * Json files                                                                                                        
-* Image files                                                                                                              
-* Audio files                                                                                                               
-* Video files                                                                                                      
 
 
 ## 1. to_access Structured_Data : (using XAMPP - MySQL) 
